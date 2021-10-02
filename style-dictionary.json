@@ -1,0 +1,141 @@
+{
+  "breakpoint": {
+    "desktop": {
+      "medium": {
+        "value": "992"
+      },
+      "large": {
+        "value": "1200"
+      }
+    },
+    "mobile": {
+      "medium": {
+        "value": "414"
+      },
+      "large": {
+        "value": "576"
+      }
+    },
+    "tablet": {
+      "value": "768"
+    }
+  },
+  "color": {
+    "black": {
+      "value": "#272727"
+    },
+    "background": {
+      "value": "radial-gradient(circle, rgba(237,138,14,1) 35%, rgba(233,199,14,1) 100%)"
+    },
+    "white": {
+      "value": "#FFFFFF"
+    }
+  },
+  "font": {
+    "family": {
+      "value": "'Roboto', -apple-system, '.SFNSText-Regular', 'San Francisco', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif"
+    },
+    "size": {
+      "headingDisplay": {
+        "value": "40px"
+      },
+      "headingTitle1": {
+        "value": "30px"
+      },
+      "headingTitle2": {
+        "value": "24px"
+      },
+      "text": {
+        "normal": {
+          "value": "14px"
+        },
+        "large": {
+          "value": "16px"
+        },
+        "small": {
+          "value": "12px"
+        }
+      }
+    }
+  },
+  "opacity": {
+    "buttonDisabled": {
+      "value": "0.3"
+    },
+    "checkboxDisabled": {
+      "value": "0.5"
+    },
+    "overlay": {
+      "value": "0.8"
+    },
+    "radioButtonDisabled": {
+      "value": "0.5"
+    }
+  },
+  "shadow": {
+    "default": {
+      "value": "0"
+    },
+    "level1": {
+      "value": "0 1px 4px 0 rgba(0, 0, 0, 0.1)"
+    },
+    "level2": {
+      "value": "0 4px 8px 0 rgba(0, 0, 0, 0.1)"
+    },
+    "level3": {
+      "value": "0 8px 16px 0 rgba(0, 0, 0, 0.1)"
+    },
+    "level4": {
+      "value": "0 12px 24px 0 rgba(0, 0, 0, 0.1)"
+    },
+    "level5": {
+      "value": "0 16px 32px 0 rgba(0, 0, 0, 0.1)"
+    }
+  },
+  "space": {
+    "XXXSmall": {
+      "value": "2px"
+    },
+    "XXSmall": {
+      "value": "4px"
+    },
+    "XSmall": {
+      "value": "8px"
+    },
+    "small": {
+      "value": "12px"
+    },
+    "medium": {
+      "value": "16px"
+    },
+    "large": {
+      "value": "24px"
+    },
+    "XLarge": {
+      "value": "32px"
+    },
+    "XXLarge": {
+      "value": "40px"
+    },
+    "XXXLarge": {
+      "value": "52px"
+    }
+  },
+  "zIndex": {
+    "default": {
+      "value": "1"
+    },
+    "modal": {
+      "value": "825"
+    },
+    "modalOverlay": {
+      "value": "800"
+    },
+    "onTheTop": {
+      "value": "900"
+    },
+    "sticky": {
+      "value": "100"
+    }
+  }
+}
